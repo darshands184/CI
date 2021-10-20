@@ -6,10 +6,6 @@ name: Python application
 on:
   push:
     branches: [ main ]
-    paths:
-    - 'factorial.py'
-    - 'lint.py'
-    - 'class_test.py'
   pull_request:
     branches: [ main ]
 
