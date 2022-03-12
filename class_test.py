@@ -8,6 +8,7 @@ import sys
 import factorial
 import csv
 
+
 try:
     var = factorial.GFG()
     #sys.exit(0)
