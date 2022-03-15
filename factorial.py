@@ -1,8 +1,6 @@
-
 import time   
 
 final_list = []    
-
 
 class GFG:
       
